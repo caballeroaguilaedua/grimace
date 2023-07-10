@@ -265,43 +265,43 @@
     "games" : [
         {
             "name" : "Game Chapter 1",
-            "ico" : "https://raw.githubusercontent.com/caballeroaguilaedua/grimace/main/1.png",
+            "ico" : "https://raw.githubusercontent.com/caballeroaguilaedua/grimace/main/7.png",
             "link" : "https://html5.gamemonetize.co/ntaoxztdx6j8p6fz4dh6exdyeth9y1jx/",
             "cat" : "Overall",
             "orientation" : "0"
         },{
-            "name" : "Game Chapter 1",
+            "name" : "Game Chapter 2",
             "ico" : "https://raw.githubusercontent.com/caballeroaguilaedua/grimace/main/2.jpg",
             "link" : "https://yandex.com/games/app/192536?utm_source=yandex&utm_medium=com&utm_campaign=morda#app-id=192536&catalog-session-uid=catalog-16cb0407-7a17-57ac-bde8-e7bcdd1581cb-1673482397201-f628&rtx-reqid=10980411383013247026&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
             "cat" : "Strategies",
             "orientation" : "0"
         },{
-            "name" : "Game Chapter 1",
+            "name" : "Game Chapter 3",
             "ico" : "https://raw.githubusercontent.com/caballeroaguilaedua/grimace/main/3.png",
             "link" : "https://www.y8.com/games/it_s_playtime_they_are_coming/mobile",
             "cat" : "Soccer",
             "orientation" : "1"
         },{
-            "name" : "Game Chapter 1",
+            "name" : "Game Chapter 4",
             "ico" : "https://raw.githubusercontent.com/caballeroaguilaedua/grimace/main/4.jpg",
             "link" : "https://www.agame.com/game/poppy-huggie-escape",
             "cat" : "Arcade",
             "orientation" : "0"
         },{
-            "name" : "Game Chapter 1",
+            "name" : "Game Chapter 5",
             "ico" : "https://raw.githubusercontent.com/caballeroaguilaedua/grimace/main/5.png",
             "link" : "https://robloxdoorsgame.com/wp-content/uploads/gg/grandpa-granny-4/",
             "cat" : "Puzzles",
             "orientation" : "0"
         },{
-            "name" : "Game Chapter 1",
+            "name" : "Game Chapter 6",
             "ico" : "https://raw.githubusercontent.com/caballeroaguilaedua/grimace/main/6.png",
             "link" : "https://html5.gamemonetize.co/ntaoxztdx6j8p6fz4dh6exdyeth9y1jx/",
             "cat" : "Hypercasual",
             "orientation" : "0"
         },{
-            "name" : "Game Chapter 1",
-            "ico" : "https://raw.githubusercontent.com/caballeroaguilaedua/grimace/main/7.png",
+            "name" : "Game Chapter 7",
+            "ico" : "https://raw.githubusercontent.com/caballeroaguilaedua/grimace/main/1.png",
             "link" : "https://www.y8.com/games/it_s_playtime_they_are_coming/mobile",
             "cat" : "Arcade",
             "orientation" : "1"
